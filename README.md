@@ -19,12 +19,12 @@ The code in this repository follows a four-step workflow:
    - **run:** `python pred_llama2_rag_sparse.py --model llama2-7b-chat-4k-rag`
    
    - **File:** `pred_llama2_rag_dense.py`
-   - **run:** `python pred_llama2_rag_sparse.py --model llama2-7b-chat-4k-rag`
+   - **run:** `python pred_llama2_rag_dense.py --model llama2-7b-chat-4k-rag`
 
 3. **Shadow-LLM Inference**  
    - **File:** `pred_llama2_shadow.py`
-   - **run:** `python pred_llama2_rag_sparse.py --model llama2-7b-shadow`
+   - **run:** `python pred_llama2_shadow.py --model llama2-7b-shadow`
   
 4. **Answer Refinement**  
    - **File:** `discriminator_llama2.py --model llama2-7b-chat-4k`
-   - **run** `python pred_llama2_rag_sparse.py --model llama2-7b-chat-4k`
+   - **run** `python discriminator_llama2.py --model llama2-7b-chat-4k`
