@@ -8,7 +8,7 @@ Large Language Models (LLMs) often struggle with the Lost in the Middle phenomen
 
 ## Code Workflow
 
-The code in this repository follows a four-step workflow:
+The code in this repository follows a four-step workflow (taking Llama2-7b-chat as an example):
 
 1. **RAG Indexing**  
    - **File:** `./rag/index_building_bm25.sh`
