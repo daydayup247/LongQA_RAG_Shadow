@@ -27,7 +27,7 @@ The code in this repository follows a four-step workflow:
   
 4. **Answer Refinement**  
    - **File:** `discriminator_llama2.py --model llama2-7b-chat-4k`
-   - **Run** `python discriminator_llama2.py --model llama2-7b-chat-4k`
+   - **Run:** `python discriminator_llama2.py --model llama2-7b-chat-4k`
   
 
 🚧 **Work in progress** — this code is actively maintained and will be updated frequently. 
