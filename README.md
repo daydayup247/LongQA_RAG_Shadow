@@ -31,3 +31,7 @@ The code in this repository follows a four-step workflow:
   
 
 🚧 **Work in progress** — this code is actively maintained and will be updated frequently. 
+
+## Acknowledgments
+
+This project reuses code from [THUDM/LongBench](https://github.com/THUDM/LongBench/tree/main/LongBench) under the MIT license—thanks!
