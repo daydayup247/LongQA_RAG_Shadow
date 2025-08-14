@@ -26,7 +26,7 @@ The code in this repository follows a four-step workflow:
    - **Run:** `python pred_llama2_shadow.py --model llama2-7b-shadow`
   
 4. **Answer Refinement**  
-   - **File:** `discriminator_llama2.py --model llama2-7b-chat-4k`
+   - **File:** `discriminator_llama2.py`
    - **Run:** `python discriminator_llama2.py --model llama2-7b-chat-4k`
   
 
